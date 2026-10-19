@@ -1,4 +1,4 @@
-# Jupyter Notebook: A Simple Guide
+# Jupyter Notebook
 
 A quick introduction to notebooks, their components and everyday data tasks.
 
