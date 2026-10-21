@@ -1,7 +1,5 @@
 # Introduction to NumPy with Python
 
-Notes and examples from **Intro_to_Numpy + Numpy tasks.ipynb**, completed during Sparta Global training.
-
 ## What is NumPy?
 
 **NumPy (Numerical Python)** is a Python library for working with numerical data. Its main structure is the **ndarray**, an N-dimensional array. Arrays allow calculations to be applied to many values at once.
